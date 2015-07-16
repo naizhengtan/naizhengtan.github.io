@@ -129,6 +129,8 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
 
 #Naizheng custom
+encoding: utf-8
+
 collections:
   research:
     output: true
