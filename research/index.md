@@ -6,22 +6,23 @@ group: navigation
 ---
 {% include JB/setup %}
 
-###Research Interests
+### Research Interests
 
 My research interests are mobile systems and virtualization.
 
 - - -
-###Research Projects
 
-####Mobile
+### Research Projects
+
+#### Mobile
 
 Mobile platforms like smartphones have unique features like scarce computing, storage and power resources, high possible to physical attacks and lost. These usually render traditional measures for desktop and servers not directly applicable. The following projects aim at hardening mobile systems using various approaches.
 
 * **PreCrime** :
 Since suspicious apps are constantly evolving to bypass present detecting techniques, it becomes harder for nowadays measures to prevent abnormal behavior from hap- pening. We propose a speculative execution framework called PreCrime, which is deployed on cloud to explore the possible paths one step ahead of the smartphone.
 
-* **RoseCloud**:
-Device theft and loss expose smartphones not only to software attacks, but also to physical threats. RoseCloud is a cloud-based system that eliminates the exposure of confidential data from mobile devices by utilizing program offloading and asymmetric taint tracking. I designed and implemented the asymmetric taint tracking part of RoseCloud.
+* **TinMan**:
+Device theft and loss expose smartphones not only to software attacks, but also to physical threats. TinMan is a cloud-based system that eliminates the exposure of confidential data from mobile devices by utilizing program offloading and asymmetric taint tracking. I designed and implemented the asymmetric taint tracking part of RoseCloud.
 
 * **EventChain**:
 Permission system are the most commonly used security system in commodity smartphones. EventChain is a behavior-based permission granting system which targets improving drawbacks of app-based permission granting mechanism. 
@@ -41,7 +42,10 @@ With overstaffed software stack, clouds are vulnerable from adversaries includin
 
 
 - - -
-###Publications
+
+### Publications
+
+- Yubin Xia, Yutao Liu, **Cheng Tan**, and Mingyang Ma, Haibing Guan, Binyu Zang and Haibo Chen. TinMan: Eliminating Confidential Mobile Data Exposure with Security-oriented Offloading. (Eurosys 2015)
 
 - **Cheng Tan**, Haibo Li, Yubin Xia, Binyu Zang, Cheng-Kang Chu, Tieyan Li, Feng Bao. PreCrime to the Rescue: Defeating Mobile Malware One Step Ahead. (Apsys 2014)
 
