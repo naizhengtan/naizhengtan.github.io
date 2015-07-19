@@ -8,7 +8,7 @@ This series of blogs are designed to explore the inner implementation and desgin
 [hhvm](hhvm.com), a PHP interpreter developed by Facebook. There are a set of topics
 should be covered, including: 
 
-- Value systems
+- **Value systems**
 - Interpreter Architecture
 - HHVM bytecode
 - Jit
