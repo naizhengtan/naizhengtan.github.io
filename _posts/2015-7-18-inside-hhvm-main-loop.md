@@ -55,7 +55,6 @@ We can imagine this snippet of PHP code will be "compiled" to a series of HipHop
 	SetL $a
 	PopC
 	CGetL $a
-	CastString
 	Print
 	PopC
 	Int 1
