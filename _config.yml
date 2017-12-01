@@ -149,3 +149,5 @@ defaults:
       author: "Naizhengtan"
       category: "blog"
 
+
+theme: jekyll-theme-minimal
