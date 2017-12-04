@@ -7,7 +7,7 @@ I am a Ph.D. student in the [Computer Science Department](http://www.cs.nyu.edu/
 at [NYU](www.nyu.edu). I got my Master degree from [Fudan University](http://www.fudan.edu.cn/en/)
 and Bachelor degree from [Nanjing University](http://www.nju.edu.cn/html/eng/1.html).
 My research interest is system security.
-I used to work on mobile system and virtualization.
+I used to work on mobile system and system virtualization.
 
 <br>
 
