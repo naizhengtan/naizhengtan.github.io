@@ -39,7 +39,7 @@ I used to work on mobile system and system virtualization.
 ## About me
 
 I'm part of the [Systems Group](http://news.cs.nyu.edu/) at NYU
-where I'm advised by Michael Walfish.
+where I'm advised by [Michael Walfish](https://cs.nyu.edu/~mwalfish/).
 
 I was part of the [IPADS](http://ipads.se.sjtu.edu.cn/) group advised by
 [Binyu Zang](http://ppi.fudan.edu.cn/art/binyu_zang)
