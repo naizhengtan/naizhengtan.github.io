@@ -15,6 +15,10 @@ I used to work on mobile system and system virtualization.
 
 ### Conference papers
 
+* NetBouncer: Active Device and Link Failure Localization in Data Center Networks  
+  **Cheng Tan**, Ze Jin, Chuanxiong Guo, Tianrong Zhang, Haitao Wu, Karl Deng, Dongming Bi, and Dong Xiang  
+  [NSDI 2019](https://www.usenix.org/conference/nsdi19), Boston, USA, February 2019.
+
 * [The Efficient Server Audit Problem, Deduplicated Re-execution, and the Web](doc/papers/efficient17tan.pdf)
   (*Best paper award*)  
   **Cheng Tan**, Lingfan Yu, Joshua B. Leners, and Michael Walfish  
