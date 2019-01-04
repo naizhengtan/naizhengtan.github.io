@@ -15,7 +15,7 @@ I used to work on mobile system and system virtualization.
 
 ### Conference papers
 
-* NetBouncer: Active Device and Link Failure Localization in Data Center Networks  
+* [NetBouncer: Active Device and Link Failure Localization in Data Center Networks](doc/papers/netbouncer19tan.pdf)  
   **Cheng Tan**, Ze Jin, Chuanxiong Guo, Tianrong Zhang, Haitao Wu, Karl Deng, Dongming Bi, and Dong Xiang  
   [NSDI 2019](https://www.usenix.org/conference/nsdi19), Boston, USA, February 2019.
 
