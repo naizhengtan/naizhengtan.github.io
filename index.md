@@ -3,7 +3,7 @@
 
 # Cheng Tan
 
-I am a final Ph.D. student in [Systems Group](http://news.cs.nyu.edu/)
+I am a final year Ph.D. student in [Systems Group](http://news.cs.nyu.edu/)
 at [Courant Institute](https://cims.nyu.edu/) [NYU](www.nyu.edu),
 advised by [Michael Walfish](https://cs.nyu.edu/~mwalfish/).
 
