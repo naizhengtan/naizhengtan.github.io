@@ -3,11 +3,9 @@
 
 # Cheng Tan
 
-I am a Ph.D. student in the [Computer Science Department](http://www.cs.nyu.edu/web/index.html)
-at [NYU](www.nyu.edu). I got my Master degree from [Fudan University](http://www.fudan.edu.cn/en/)
-and Bachelor degree from [Nanjing University](http://www.nju.edu.cn/html/eng/1.html).
-My research interest is system security.
-I used to work on mobile system and system virtualization.
+I am a final Ph.D. student in [Systems Group](http://news.cs.nyu.edu/)
+at [Courant Institute](https://cims.nyu.edu/) [NYU](www.nyu.edu),
+advised by [Michael Walfish](https://cs.nyu.edu/~mwalfish/).
 
 <br>
 
@@ -42,13 +40,17 @@ I used to work on mobile system and system virtualization.
 
 ## About me
 
-I'm part of the [Systems Group](http://news.cs.nyu.edu/) at NYU
-where I'm advised by [Michael Walfish](https://cs.nyu.edu/~mwalfish/).
+Before joining NYU, I got my Master degree from [Fudan University](http://www.fudan.edu.cn/en/)
+and Bachelor degree from [Nanjing University](http://www.nju.edu.cn/html/eng/1.html).
 
-I was part of the [IPADS](http://ipads.se.sjtu.edu.cn/) group advised by
+I was a student at [IPADS](http://ipads.se.sjtu.edu.cn/) group and advised by
 [Binyu Zang](http://ppi.fudan.edu.cn/art/binyu_zang)
-and [Haibo Chen](http://ipads.se.sjtu.edu.cn/pub:members:haibo_chen).
-I have spent 4 amazing years there working with a lot of talented researchers.
+and [Haibo Chen](http://ipads.se.sjtu.edu.cn/pub:members:haibo_chen),
+where I did research on mobile system and system virtualization.
+
+I'm part of a startup company [TEEX](https://teex.io). TEEX is a secure
+distributed computing platform which provides a Layer-2 solution based on
+blockchain.
 
 I also worked with a group of enthusiastic and interesting guys in
 Italy who were working on a startup company [WalletSaver](http://www.walletsaver.com/).
