@@ -3,7 +3,7 @@
 
 # Cheng Tan
 
-  <img align="right" src="doc/info/cheng_19_NYU.JPG" width="200">
+  <img align="right" src="doc/info/cheng_19_NYU.JPG" width="250">
 
   <!-- <img src="doc/info/cheng_19_NYU.JPG" width="200" class="align-right" > -->
   <!-- ![image-title-here](doc/info/cheng_19_NYU.jpg){: .align-right width="200"} -->
