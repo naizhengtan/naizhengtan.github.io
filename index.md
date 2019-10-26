@@ -3,14 +3,28 @@
 
 # Cheng Tan
 
-I am a final year Ph.D. student in [Systems Group](http://news.cs.nyu.edu/)
-at [Courant Institute](https://cims.nyu.edu/) [NYU](www.nyu.edu),
-advised by [Michael Walfish](https://cs.nyu.edu/~mwalfish/).
-I work on verifying system's end-to-end properties without relying on internal information, in particular:
-  * verifying the execution of applications on untrusted servers.
-  * checking serializability of black-box databases.
-  * localizaing failures of data center networks with client-side information only.
-<br>
+  <img align="right" src="doc/info/cheng_19_NYU.JPG" width="200">
+
+  <!-- <img src="doc/info/cheng_19_NYU.JPG" width="200" class="align-right" > -->
+  <!-- ![image-title-here](doc/info/cheng_19_NYU.jpg){: .align-right width="200"} -->
+
+  I am a final year Ph.D. student in [Systems Group](http://news.cs.nyu.edu/)
+  at [Courant Institute](https://cims.nyu.edu/) [NYU](www.nyu.edu),
+  advised by [Michael Walfish](https://cs.nyu.edu/~mwalfish/).
+
+  I work on system security. I build systems that enable
+  users to verify their outsourced services.
+  In particular, my research includes:
+
+  * verifying the execution of applications on untrusted servers,
+  * verifying serializability of black-box databases,
+  * localizing failures of data center networks.
+
+  Please find my CV [here](doc/info/cv.pdf).
+
+
+
+
 
 ## Publications
 
@@ -22,7 +36,7 @@ I work on verifying system's end-to-end properties without relying on internal i
   \[[slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_cheng_tan.pdf), [talk](https://www.youtube.com/watch?v=ncujDdW1wrE)\]
 
 * [The Efficient Server Audit Problem, Deduplicated Re-execution, and the Web](doc/papers/efficient17tan.pdf)
-  (*Best paper award*)  
+  (**Best paper award**)  
   **Cheng Tan**, Lingfan Yu, Joshua B. Leners, and Michael Walfish  
   [SOSP 2017](https://www.sigops.org/sosp/sosp17/), Shanghai, China, October 2017.
   \[[slides](https://www.sigops.org/s/conferences/sosp/2017/slides/cheng-sosp17-slides.pdf), [talk](http://delivery.acm.org/10.1145/3140000/3132760/server_audit.mp4?ip=216.165.95.184&id=3132760&acc=ACTIVE%20SERVICE&key=36E5A5D4E382B3FA%2E36E5A5D4E382B3FA%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1566868999_3ea48fc35a47483d1c776b213803183c), [extended report](https://arxiv.org/abs/1709.08501), [code](https://github.com/OrochiProject/orochi)\]
@@ -45,17 +59,17 @@ I work on verifying system's end-to-end properties without relying on internal i
 
 ## About me
 
-Before joining NYU, I got my Master degree from [Fudan University](http://www.fudan.edu.cn/en/)
-and Bachelor degree from [Nanjing University](http://www.nju.edu.cn/html/eng/1.html).
+Before joining NYU, I got my M.S. from [Fudan University](http://www.fudan.edu.cn/en/)
+and B.E. from [Nanjing University](http://www.nju.edu.cn/html/eng/1.html),
+both in Computer Software Engineering.
 
 I was a student at [IPADS](http://ipads.se.sjtu.edu.cn/) group and advised by
 [Binyu Zang](http://ppi.fudan.edu.cn/art/binyu_zang)
 and [Haibo Chen](http://ipads.se.sjtu.edu.cn/pub:members:haibo_chen),
 where I did research on mobile system and system virtualization.
 
-I'm part of a startup company [TEEX](https://teex.io). TEEX is a secure
-distributed computing platform which provides a Layer-2 solution based on
-blockchain.
+I'm part of [TEEX](https://teex.io). TEEX is a secure distributed computing
+platform which provides a Layer-2 solution based on blockchain.
 
 I also worked with a group of enthusiastic and interesting guys in
 Italy who were working on a startup company [WalletSaver](http://www.walletsaver.com/).
@@ -71,4 +85,4 @@ New York University
 60 5th Ave, Office 424  
 New York, NY 10011  
 
-email: naizhengtan at gmail.com
+email: chengtan at nyu.com
