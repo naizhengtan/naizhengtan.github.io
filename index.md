@@ -33,7 +33,8 @@
 * [NetBouncer: Active Device and Link Failure Localization in Data Center Networks](doc/papers/netbouncer19tan.pdf)  
   **Cheng Tan**, Ze Jin, Chuanxiong Guo, Tianrong Zhang, Haitao Wu, Karl Deng, Dongming Bi, and Dong Xiang  
   [NSDI 2019](https://www.usenix.org/conference/nsdi19), Boston, USA, February 2019.
-  \[[slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_cheng_tan.pdf), [talk](https://www.youtube.com/watch?v=ncujDdW1wrE)\]
+  \[[pdf](doc/papers/netbouncer19tan.pdf),
+    [slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_cheng_tan.pdf), [talk](https://www.youtube.com/watch?v=ncujDdW1wrE)\]
 
 * [The Efficient Server Audit Problem, Deduplicated Re-execution, and the Web](project/orochi.html)
   (**Best paper award**)  
