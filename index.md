@@ -35,11 +35,12 @@
   [NSDI 2019](https://www.usenix.org/conference/nsdi19), Boston, USA, February 2019.
   \[[slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi19_slides_cheng_tan.pdf), [talk](https://www.youtube.com/watch?v=ncujDdW1wrE)\]
 
-* [The Efficient Server Audit Problem, Deduplicated Re-execution, and the Web](doc/papers/efficient17tan.pdf)
+* [The Efficient Server Audit Problem, Deduplicated Re-execution, and the Web](project/orochi.html)
   (**Best paper award**)  
   **Cheng Tan**, Lingfan Yu, Joshua B. Leners, and Michael Walfish  
   [SOSP 2017](https://www.sigops.org/sosp/sosp17/), Shanghai, China, October 2017.
-  \[[slides](https://www.sigops.org/s/conferences/sosp/2017/slides/cheng-sosp17-slides.pdf), [talk](http://delivery.acm.org/10.1145/3140000/3132760/server_audit.mp4?ip=216.165.95.184&id=3132760&acc=ACTIVE%20SERVICE&key=36E5A5D4E382B3FA%2E36E5A5D4E382B3FA%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1566868999_3ea48fc35a47483d1c776b213803183c), [extended report](https://arxiv.org/abs/1709.08501), [code](https://github.com/OrochiProject/orochi)\]
+  \[[pdf](doc/papers/efficient17tan.pdf),
+  [slides](https://www.sigops.org/s/conferences/sosp/2017/slides/cheng-sosp17-slides.pdf), [talk](http://delivery.acm.org/10.1145/3140000/3132760/server_audit.mp4?ip=216.165.95.184&id=3132760&acc=ACTIVE%20SERVICE&key=36E5A5D4E382B3FA%2E36E5A5D4E382B3FA%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1566868999_3ea48fc35a47483d1c776b213803183c), [extended report](https://arxiv.org/abs/1709.08501), [code](https://github.com/OrochiProject/orochi)\]
 
 * [TinMan: Eliminating Confidential Mobile Data Exposure with Security-oriented Offloading](doc/papers/tinman15xia.pdf)  
   Yubin Xia, Yutao Liu, **Cheng Tan**, and Mingyang Ma, Haibing Guan, Binyu Zang, and Haibo Chen.  
