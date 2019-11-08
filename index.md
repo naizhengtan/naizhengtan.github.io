@@ -50,7 +50,7 @@
 ### Workshop papers
 
 * [PreCrime to the Rescue: Defeating Mobile Malware One Step Ahead](doc/papers/precrime14tan.pdf)  
-  **Cheng Tan**, Haibo Li, Yubin Xia, Binyu Zang, Cheng-Kang Chu, Tieyan Li, Feng Bao.  
+  **Cheng Tan**, Haibo Li, Yubin Xia, Binyu Zang, Cheng-Kang Chu, and Tieyan Li.  
   [Apsys 2014](http://acs.ict.ac.cn/apsys2014/), Beijing, China, June 2014.
 
 * [TinyChecker: Transparent Protection Of VMs Against Hypervisor Failures With Nested Virtualization](doc/papers/tinychecker12tan.pdf)  
