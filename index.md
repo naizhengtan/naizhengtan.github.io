@@ -32,7 +32,7 @@
 
 * [Detecting Incorrect Behavior of Cloud Databases as an Outsider](https://arxiv.org/pdf/1912.09018.pdf)  
   **Cheng Tan**, Changgeng Zhao, Shuai Mu, and Michael Walfish  
-  [Preprint, arXiv:1912.09018](https://arxiv.org/abs/1912.09018). \[[pdf](https://arxiv.org/pdf/1912.09018.pdf)\]
+  [arXiv:1912.09018](https://arxiv.org/abs/1912.09018), December 2019. \[[pdf](https://arxiv.org/pdf/1912.09018.pdf)\]
 
 * [NetBouncer: Active Device and Link Failure Localization in Data Center Networks](doc/papers/netbouncer19tan.pdf)  
   **Cheng Tan**, Ze Jin, Chuanxiong Guo, Tianrong Zhang, Haitao Wu, Karl Deng, Dongming Bi, and Dong Xiang  
