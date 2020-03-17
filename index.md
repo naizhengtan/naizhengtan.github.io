@@ -9,7 +9,7 @@
   <!-- ![image-title-here](doc/info/cheng_19_NYU.jpg){: .align-right width="200"} -->
 
   I am a final year Ph.D. student in [Systems Group](http://news.cs.nyu.edu/)
-  at [Courant Institute](https://cims.nyu.edu/) [NYU](www.nyu.edu),
+  at [Courant Institute](https://cims.nyu.edu/) [NYU](http://www.nyu.edu),
   advised by [Michael Walfish](https://cs.nyu.edu/~mwalfish/).
 
   I work on system security. I build systems that enable
