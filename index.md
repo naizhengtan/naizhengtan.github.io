@@ -30,9 +30,9 @@
 
 ### Conference papers and preprints
 
-* [Detecting Incorrect Behavior of Cloud Databases as an Outsider](https://arxiv.org/pdf/1912.09018.pdf)  
+* [Making Cloud Key-Value Databases Verifiably Serializable]()  
   **Cheng Tan**, Changgeng Zhao, Shuai Mu, and Michael Walfish  
-  [arXiv:1912.09018](https://arxiv.org/abs/1912.09018), December 2019. \[[pdf](https://arxiv.org/pdf/1912.09018.pdf)\]
+  [OSDI 2020](https://www.usenix.org/conference/osdi20), November 2020. \[to appear\]
 
 * [NetBouncer: Active Device and Link Failure Localization in Data Center Networks](doc/papers/netbouncer19tan.pdf)  
   **Cheng Tan**, Ze Jin, Chuanxiong Guo, Tianrong Zhang, Haitao Wu, Karl Deng, Dongming Bi, and Dong Xiang  
