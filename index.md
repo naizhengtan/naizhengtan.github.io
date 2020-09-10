@@ -30,7 +30,7 @@
 
 ### Conference papers and preprints
 
-* [Making Cloud Key-Value Databases Verifiably Serializable]()  
+* [Cobra: Making Transactional Key-Value Stores Verifiably Serializable]()  
   **Cheng Tan**, Changgeng Zhao, Shuai Mu, and Michael Walfish  
   [OSDI 2020](https://www.usenix.org/conference/osdi20), November 2020. \[to appear\]
 
