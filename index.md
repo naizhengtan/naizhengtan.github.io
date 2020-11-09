@@ -8,6 +8,10 @@
   <!-- <img src="doc/info/cheng_19_NYU.JPG" width="200" class="align-right" > -->
   <!-- ![image-title-here](doc/info/cheng_19_NYU.jpg){: .align-right width="200"} -->
 
+  **I will join the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/) 
+  [Northeastern University](https://www.northeastern.edu/) as an Assistant Professor in Fall 2021.<br>
+  If you are interested in building systems, we should talk (c.tan@northeastern.edu).**
+
   I am a final year Ph.D. student in [Systems Group](http://news.cs.nyu.edu/)
   at [Courant Institute](https://cims.nyu.edu/) [NYU](http://www.nyu.edu),
   advised by [Michael Walfish](https://cs.nyu.edu/~mwalfish/).
@@ -32,7 +36,10 @@
 
 * [Cobra: Making Transactional Key-Value Stores Verifiably Serializable]()  
   **Cheng Tan**, Changgeng Zhao, Shuai Mu, and Michael Walfish  
-  [OSDI 2020](https://www.usenix.org/conference/osdi20), November 2020. \[to appear\]
+  [OSDI 2020](https://www.usenix.org/conference/osdi20), November 2020.
+  \[[pdf](doc/papers/cobra20tan.pdf),
+  [slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi20_slides_tan.pdf),
+  [code](https://github.com/DBCobra/CobraHome)\]
 
 * [NetBouncer: Active Device and Link Failure Localization in Data Center Networks](doc/papers/netbouncer19tan.pdf)  
   **Cheng Tan**, Ze Jin, Chuanxiong Guo, Tianrong Zhang, Haitao Wu, Karl Deng, Dongming Bi, and Dong Xiang  
@@ -91,4 +98,4 @@ New York University
 60 5th Ave, Office 424  
 New York, NY 10011  
 
-email: naizhengtan at gmail.com
+<!-- email: naizhengtan at gmail.com -->
