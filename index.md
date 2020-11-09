@@ -9,7 +9,7 @@
   <!-- ![image-title-here](doc/info/cheng_19_NYU.jpg){: .align-right width="200"} -->
 
   **I will join the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/) 
-  [Northeastern University](https://www.northeastern.edu/) as an Assistant Professor in Fall 2021.<br>
+  at [Northeastern University](https://www.northeastern.edu/) as an Assistant Professor in Fall 2021.<br>
   If you are interested in building systems, we should talk (c.tan@northeastern.edu).**
 
   I am a final year Ph.D. student in [Systems Group](http://news.cs.nyu.edu/)
