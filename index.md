@@ -8,7 +8,7 @@
   <!-- <img src="doc/info/cheng_19_NYU.JPG" width="200" class="align-right" > -->
   <!-- ![image-title-here](doc/info/cheng_19_NYU.jpg){: .align-right width="200"} -->
 
-  **I will join the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/) 
+  **I will join [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/) 
   at [Northeastern University](https://www.northeastern.edu/) as an Assistant Professor in Fall 2021.<br>
   If you are interested in building systems, we should talk (c.tan@northeastern.edu).**
 
