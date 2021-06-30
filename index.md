@@ -11,9 +11,11 @@
   I am an assistant professor of [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/) 
   at [Northeastern University](https://www.northeastern.edu/).
 
-  I work on systems. I build systems that enable
+  <!--I work on systems. -->
+  I'm broadly interested in computer systems.
+  I build systems that enable
   users to verify their outsourced services.
-  In particular, my current research includes:
+  In particular, my recent research includes:
 
   * verifying the execution of applications on untrusted servers,
   * verifying behaviors of black-box databases,
